@@ -1,0 +1,3 @@
+###娃娃机相关账号地址.txt
+  gitlab: http://192.168.4.239/CommonSerivce/babymachine
+  gitlab: http://192.168.4.239/CommonSerivce/babymachine
