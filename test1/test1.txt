@@ -1,1 +1,8 @@
 fdgjkdl
+
+
+
+进销存系统：
+泰国：203.154.114.28 /application/invoicing
+印尼：103.95.11.103  /home/dedi/invoicing
+深圳：47.89.37.57   /application/invo
